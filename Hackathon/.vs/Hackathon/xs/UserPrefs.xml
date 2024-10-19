@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4F76A86B-97AA-3C9C-A637-B987DC1DB2E1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HackVoice/VoiceManager.cs">
+    <Files>
+      <File FileName="Assets/HackVoice/VoiceManager.cs" Line="15" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c8054d7f-899f-4d4f-99e3-88145b76713e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
